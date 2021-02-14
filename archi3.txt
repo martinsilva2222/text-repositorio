@@ -4,3 +4,4 @@ En este momento quiero aprender github.
  Ser humilde para preguntar.
  Evitar el sindrome del impostor.
  lorem ipsum ahora con gitignore
+ que ladilla con esto.
