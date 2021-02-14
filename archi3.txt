@@ -5,3 +5,4 @@ En este momento quiero aprender github.
  Evitar el sindrome del impostor.
  lorem ipsum ahora con gitignore
  que ladilla con esto.
+ aun sigue el peo
