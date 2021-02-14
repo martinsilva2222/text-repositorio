@@ -1,8 +1,0 @@
-En este momento quiero aprender github.
- Pero me cuesta aprender esta nueva tecnologia.
- Debo tener paciencia y perseverancia.
- Ser humilde para preguntar.
- Evitar el sindrome del impostor.
- lorem ipsum ahora con gitignore
- que ladilla con esto.
- aun sigue el peo
